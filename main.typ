@@ -57,7 +57,7 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
 
 #project(
   name: "HTTP/1.1 Server Implementation",
-  url: "https://github.com/0xhoussam/http-1.1",
+  url: "github.com/0xhoussam/http-1.1",
 )
 - Designed and implemented an RFC 9112-compliant HTTP/1.1 server from scratch,
   supporting Common Gateway Interface (CGI) for dynamic content generation.
@@ -75,7 +75,7 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
 
 #project(
   name: "Unix POSIX-Compliant Shell",
-  url: "https://github.com/0xhoussam/shell",
+  url: "github.com/0xhoussam/shell",
 )
 - Developed a fully functional Unix shell compliant with POSIX standards,
   supporting command execution, piping, and redirection.
@@ -85,7 +85,7 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
 
 #project(
   name: "Discopong Chat and Gaming Platform",
-  url: "https://github.com/0xhoussam/discopong",
+  url: "github.com/0xhoussam/discopong",
 )
 - Built a real-time chat system inspired by Discord, integrating a multiplayer
   Pong game for interactive user engagement.
@@ -96,7 +96,7 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
 
 #project(
   name: "Dotfiles Configuration",
-  url: "https://github.com/0xhoussam/dotnix",
+  url: "github.com/0xhoussam/dotnix",
 )
 - Created a modular configuration system to manage development environments across
   multiple Linux machines.
