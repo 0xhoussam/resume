@@ -105,10 +105,8 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
   systems.
 
 == Skills
-- *Backend*: Go, C/C++, TypeScript/JavaScript, SQL, Express, NGINX, Caddy,
-  Postgres
-- *Frontend*: React, Tailwind, HTML/CSS
-- *DevOps*: Git, Docker, Linux, Nix, SSH
+- *Programming Languages*: C/C++, Javascript/Typescript, Golang, SQL, Python
+- *Tools & Frameworks*: Git/Github, HTML/CSS, Docker, SSH, Virtualisation, Linux, Bash, Nix
 - *Concepts*: System Design, Networking, REST APIs, WebSockets, Role-Based Access
   Control
 - *Languages*: Arabic (Native), English (Proficient)
