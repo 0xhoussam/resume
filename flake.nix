@@ -2,7 +2,7 @@
   description = "An empty flake template that you can adapt to your own environment";
 
   # Flake inputs
-  inputs.nixpkgs.url = "https://flakehub.com/f/NixOS/nixpkgs/0.1";
+  inputs.nixpkgs.url = "nixpkgs/nixpkgs-unstable";
 
   # Flake outputs
   outputs =
