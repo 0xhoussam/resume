@@ -49,7 +49,7 @@ platforms, and Unix tools, with strong proficiency in Docker, Git, and Linux.
   company: "Marwa",
   dates: dates-helper(start-date: "September 2025", end-date: "Present"),
 )
-- Enhanced software development skills by leading automation projects in retail product lifecycle management, including accessory and clothing selection, size prediction for store allocation, and new product generation..
+- Enhanced software development skills by leading automation projects in retail product lifecycle management, including accessory and clothing selection, size prediction for store allocation, and new product generation.
 
 #work(
   title: "Back End Developer",
